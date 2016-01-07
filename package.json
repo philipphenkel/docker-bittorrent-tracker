@@ -1,6 +1,6 @@
 {
   "name": "docker-bittorrent-tracker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bittorrent-tracker service",
   "author": "Philipp Henkel <weltraumpilot@googlemail.com>",
   "license": "MIT",

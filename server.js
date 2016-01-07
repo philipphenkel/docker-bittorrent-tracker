@@ -16,12 +16,12 @@ server.on('warning', function (err) {
 
 server.listen(8000, function () {
   if (server.http) {
-    console.log('HTTP tracker at http://localhost:' + server.http.address().port + '/announce')
+    console.log('HTTP tracker listening on port ' + server.http.address().port)
   }
   if (server.udp) {
-    console.log('UDP tracker at udp://localhost:' + server.udp.address().port)
+    console.log('UDP tracker listening on port ' + server.udp.address().port)
   }
   if (server.ws) {
-    console.log('WebSocket tracker at ws://localhost:' + server.http.address().port)
+    console.log('WebSocket tracker listening on port ' + server.http.address().port)
   }
 })
