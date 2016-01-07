@@ -1,6 +1,6 @@
 # docker-bittorrent-tracker
-Docker Image containing a [BitTorrent tracker](https://wiki.theory.org/BitTorrentSpecification#Tracker_HTTP.2FHTTPS_Protocol) server.
-The Node.js server is using Feross Aboukhadijeh's excellent [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) library.
+Node.js Docker image containing a [BitTorrent tracker](https://wiki.theory.org/BitTorrentSpecification#Tracker_HTTP.2FHTTPS_Protocol).
+The Node service is using Feross Aboukhadijeh's excellent [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) library.
 
 Besides HTTP and UDP the tracker also supports WebSockets.
 
