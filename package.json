@@ -1,0 +1,14 @@
+{
+  "name": "docker-bittorrent-tracker",
+  "version": "0.0.1",
+  "description": "bittorrent-tracker service",
+  "author": "Philipp Henkel <weltraumpilot@googlemail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henkel/docker-bittorrent-tracker"
+  },
+  "dependencies": {
+    "bittorrent-tracker": "7.0.0"
+  }
+}
