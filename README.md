@@ -26,7 +26,7 @@ docker rm bittorrent-tracker
 docker pull henkel/bittorrent-tracker:latest
 ```
 
-Follow the "Usage" instructions to re-start service.
+Follow the usage instructions to re-start the service.
 
 ### License
 
