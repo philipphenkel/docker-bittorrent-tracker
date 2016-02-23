@@ -9,6 +9,6 @@
     "url": "https://github.com/henkel/docker-bittorrent-tracker"
   },
   "dependencies": {
-    "bittorrent-tracker": "7.0.2"
+    "bittorrent-tracker": "7.0.3"
   }
 }
