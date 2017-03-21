@@ -1,4 +1,4 @@
-BitTorrent Tracker [![Build Status](https://travis-ci.org/henkel/docker-bittorrent-tracker.svg?branch=master)](https://travis-ci.org/henkel/docker-bittorrent-tracker) [![Dependency Status](https://david-dm.org/henkel/docker-bittorrent-tracker.svg)](https://david-dm.org/henkel/docker-bittorrent-tracker)
+BitTorrent Tracker [![Build Status](https://travis-ci.org/philipphenkel/docker-bittorrent-tracker.svg?branch=master)](https://travis-ci.org/philipphenkel/docker-bittorrent-tracker) [![Dependency Status](https://david-dm.org/philipphenkel/docker-bittorrent-tracker.svg)](https://david-dm.org/philipphenkel/docker-bittorrent-tracker)
 ==================
 
 Node.js Docker image containing a [BitTorrent tracker](https://wiki.theory.org/BitTorrentSpecification#Tracker_HTTP.2FHTTPS_Protocol).
