@@ -34,6 +34,12 @@ var config = convict({
     format: Boolean,
     default: true,
     env: "STATS"
+  },
+  trustProxy: {
+    doc: "Trust x-forwarded-for header from reverse proxy",
+    format: Boolean,
+    default: true,
+    env: "TRUST_PROXY"
   }
 });
 

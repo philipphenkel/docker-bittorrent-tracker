@@ -6,6 +6,7 @@ var filter = require('./filter')
 var Server = require('bittorrent-tracker').Server
 
 var server = new Server({
+  trustProxy: config.get('trustProxy'),
   udp: config.get('udp'),
   http: config.get('http'),
   ws: config.get('websocket'),
